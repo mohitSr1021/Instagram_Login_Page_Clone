@@ -24,7 +24,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-![Login Page Screenshot](https://github-production-user-asset-6210df.s3.amazonaws.com/94630639/259850241-5c8860e0-8b04-42bc-8232-af03c5c28348.png)
+![Login Page Screenshot-1](https://github-production-user-asset-6210df.s3.amazonaws.com/94630639/259850241-5c8860e0-8b04-42bc-8232-af03c5c28348.png)
+![Login_Page_Screenshot-2](https://github.com/mohitSr1021/Instagram_Login_Page_Clone/assets/94630639/0f84d45b-ddfb-4cb3-b6d1-f872f6a7e477)
 
 
 **Note:** This project is for educational purposes and is not affiliated with Instagram in any way.
