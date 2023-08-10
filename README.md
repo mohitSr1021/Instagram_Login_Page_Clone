@@ -4,7 +4,7 @@ A clone of the Instagram login page built with HTML and CSS, showcasing a faithf
 
 ## Getting Started
 
-Follow these instructions to get a copy of the project up and running on your local machine:
+Follow these instructions to get a copy of the project up and running on your local machine (**LAPTOP**):
 
 1. Clone this repository: `git clone https://github.com/your-username/instagram-login-clone.git`
 2. Navigate to the project directory: `cd instagram-login-clone`
