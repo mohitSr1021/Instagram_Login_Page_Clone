@@ -332,6 +332,9 @@
     margin: 0px !important;
     padding-top: 8px;
 }
+.googleContent a {
+    text-decoration: none;
+}
 .googleContent a #playstore{
     width: 140px;
     height: 60px;
