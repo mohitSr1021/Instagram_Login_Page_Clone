@@ -10,7 +10,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 2. Navigate to the project directory: `cd instagram-login-clone`
 3. Open `index.html` in your preferred web browser.
 
-**Note:** If the images are not displayed correctly, make sure to set the image paths correctly in the CSS file. You might need to adjust the `background-image` URLs in the CSS code to match your directory structure.
+**Note:** If the images are not displayed correctly, make sure to set the image paths correctly in the CSS file. You might need to adjust the `background-image` URLs in the CSS code to match your directory structure.<br>
 **/* Example */**
 background-image: url("path/to/your/image.png");
 
