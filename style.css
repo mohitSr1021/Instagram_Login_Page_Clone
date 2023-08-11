@@ -46,8 +46,24 @@
 }
 
 .imageBox {
-    margin-top: 50px;
-    margin-bottom: 12px;
+    width: 60%;
+    display: flex;
+    align-items: center;
+    height: fit-content;
+    justify-content: center;
+    margin-top: 24px;
+    padding: 0px 10px 5px 10px;
+}
+
+#imageBox div {
+    background-image: url('/img/Instagram_Logo_new.svg');
+    width: 174px;
+    height: 50px;
+    margin-top: 12px;
+    margin-bottom: 10px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .loginBox {
@@ -323,24 +339,28 @@
 footer {
     padding-left: 16px;
     padding-right: 16px;
+    margin:0px 10px 52px 10px;
 }
 
 .footer-Container {
     margin-top: 24px;
     margin-bottom: 52px;
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
     flex-direction: column;
     font-size: 12px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     color: #737373;
+
 }
 
 .footer-Container .fempty {
     width: 100%;
     margin-top: 24px;
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
@@ -391,4 +411,21 @@ footer {
 
 }
 
-/* copyR.png */
+
+/* Media Queries */
+@media (min-width: 365px) {
+
+
+    .footer-Container .fempty {
+        justify-content: center;
+    }
+
+    .footer-Sub-Container {
+        align-items: center;
+    }
+
+    .copyRightinfo {
+        margin-left: 12px;
+    }
+}
+
