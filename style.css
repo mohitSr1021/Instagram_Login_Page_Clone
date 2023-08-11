@@ -56,7 +56,7 @@
 }
 
 #imageBox div {
-    background-image: url('img/Instagram_Logo_new.svg');
+    background-image: url('Instagram_Login_Page_Clone/img/Instagram_Logo_new.svg');
     width: 174px;
     height: 50px;
     margin-top: 12px;
@@ -221,7 +221,7 @@
 }
 
 .loginFacebook button div {
-    background-image: url('img/facebook.png');
+    background-image: url('Instagram_Login_Page_Clone/img/facebook.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -402,7 +402,7 @@ footer {
 }
 
 .footer-Sub-Container .language span {
-    background-image: url("img/down-arrow.svg");
+    background-image: url("Instagram_Login_Page_Clone/img/down-arrow.svg");
     width: 12px;
     height: 12px;
     background-position: center;
@@ -419,7 +419,7 @@ footer {
 }
 
 .copyRightinfo span {
-    background-image: url("img/copyR2.svg");
+    background-image: url("Instagram_Login_Page_Clone/img/copyR2.svg");
     width: 10px;
     height: 10px;
     background-position: center;
