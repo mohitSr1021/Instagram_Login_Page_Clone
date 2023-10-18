@@ -14,10 +14,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 **Example :**
 background-image: url("path/to/your/image.png");
 
-## Contributing
-
-Contributions are welcome! If you find any bugs or want to improve the project, feel free to open an issue or submit a pull request.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md).
